@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:YEepx41ZkGgjGBbc@qazlogistics.u55tv.mongodb.net/?retryWrites=true&w=majority&appName=qazlogistics",
+    "secretKey" : "mern-secret-key"
+}
